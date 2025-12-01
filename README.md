@@ -114,8 +114,7 @@ I focus on:
 ---
 
 # 📅 Career Timeline
-
-- 2022 — Início dos estudos em programação
+- 2019 — Início dos estudos em programação 
 - 2023 — Entrada na Força Aérea Brasileira
 - 2024 — Foco em Full-Stack (React + Spring Boot)
 - 2025 — Barbearia GAP em produção
