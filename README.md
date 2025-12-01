@@ -115,11 +115,11 @@ I focus on:
 
 # 📅 Career Timeline
 
-2022 — Início dos estudos em programação
-2023 — Entrada na Força Aérea Brasileira
-2024 — Foco em Full-Stack (React + Spring Boot)
-2025 — Barbearia GAP em produção
-2025 — Construção do portfólio profissional
+- 2022 — Início dos estudos em programação
+- 2023 — Entrada na Força Aérea Brasileira
+- 2024 — Foco em Full-Stack (React + Spring Boot)
+- 2025 — Barbearia GAP em produção
+- 2025 — Construção do portfólio profissional
 
 
 ---
@@ -138,8 +138,9 @@ I focus on:
 ### 🔹 Stats oficiais
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=EllyanL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllyanL&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EllyanL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EllyanL&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
